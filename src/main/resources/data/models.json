@@ -1,0 +1,27 @@
+[
+  {
+    "name": "this",
+    "city": "Berlin",
+    "state": "Germany"
+  },
+  {
+    "name": "is",
+    "city": "Rostock",
+    "state": "Germany"
+  },
+  {
+    "name": "a",
+    "city": "London",
+    "state": "UK"
+  },
+  {
+    "name": "small",
+    "city": "Rom",
+    "state": "Italy"
+  },
+  {
+    "name": "sample",
+    "city": "Paris",
+    "state": "France"
+  }
+]
